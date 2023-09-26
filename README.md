@@ -1,2 +1,2 @@
 # Data-Graph
-Data plot in python using Pandas and Matplot libraries.
+Data plot in Python using pandas and matplot libraries.
